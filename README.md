@@ -3,7 +3,7 @@
 
 <br/>
 
-An overview of visualization techniques used for computer vision (CNNs) and natural language processing (RNNs), as well as a generic feature representation methods for explainability.
+An overview of visualization techniques used for computer vision (CNNs) and natural language processing (RNNs), as well as generic feature representation methods for explainability.
 
 
 1. CNN Visualization - Computer Vision (images) </br>
